@@ -4,7 +4,7 @@
 ;; URL: http://github.com/mswift42/sunny-day-theme
 ;; Version: 0.1
 
-;; Emacs24 theme with a light background.
+;; Emacs24 theme with a light-yellow background.
 ;; Copyright (C) 2013 , Martin Haesler
 
 ;; This program is free software: you can redistribute it and/or modify
@@ -27,7 +27,7 @@
 (custom-theme-set-faces
   'sunny-day 
         '(default ((t (:background "#f8f0b0" :foreground "#000000"))))
-        '(font-lock-builtin-face ((t (:foreground "#727170"))))
+        '(font-lock-builtin-face ((t (:foreground "#9e0045"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#828282"))))
 	'(hl-line ((t (:background "#f5e98f"))))
@@ -39,19 +39,19 @@
         '(mode-line-inactive ((t (:foreground "#616161" :background "#fcf9de"))))
         '(mode-line-buffer-id ((t (:bold t :foreground "#424242" :background "#f8f0b0"))))
 	'(mode-line-highlight ((t (:background "#d3d2d1"))))
-	'(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
+	'(minibuffer-prompt ((t (:bold t :foreground "#212122"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#808080"))))
 	'(font-lock-negation-char-face ((t (:foreground "#f03f3f"))))
-	'(font-lock-reference-face ((t (:foreground "#d08689"))))
+	'(font-lock-reference-face ((t (:foreground "#1d4200"))))
 	'(font-lock-constant-face ((t (:foreground "#f03f3f"))))
-        '(font-lock-doc-face ((t (:foreground "#708090"))))
-        '(font-lock-function-name-face ((t (:foreground "#a82e4d"))))
-        '(font-lock-keyword-face ((t (:bold t :foreground "#8aa234"))))
+        '(font-lock-doc-face ((t (:foreground "#304050"))))
+        '(font-lock-function-name-face ((t (:foreground "#025c00"))))
+        '(font-lock-keyword-face ((t (:bold t :foreground "5c0002"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#b998df"))))
-        '(font-lock-string-face ((t (:foreground "#3450a2"))))
-        '(font-lock-type-face ((t (:foreground "#727170"))))
-        '(font-lock-variable-name-face ((t (:foreground "#f03f3f"))))
+        '(font-lock-string-face ((t (:foreground "#2e31ff"))))
+        '(font-lock-type-face ((t (:foreground "#5c0002"))))
+        '(font-lock-variable-name-face ((t (:foreground "#025c00"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
 	'(link ((t (:foreground "#f03f3f"))))
 	'(org-hide ((t (:foreground "#304050"))))
@@ -82,7 +82,7 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#f03f3f"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#a82e4d"))))
+	'(ido-first-match ((t (:foreground "#2e31ff"))))
 	'(gnus-header-content ((t (:foreground "#e3e3e3"))))
 	'(gnus-header-from ((t (:foreground "#424140"))))
 	'(gnus-header-name ((t (:foreground "#708090"))))
