@@ -3,6 +3,8 @@ sunny-day-theme
 
 emacs24 theme with a light yellow background
 
+![Screenshot](https://github.com/mswift42/sunny-day-theme/raw/master/Screenshot.png)
+
 Available on Melpa.
 
 Installation Instructions
