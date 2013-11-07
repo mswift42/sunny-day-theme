@@ -94,7 +94,7 @@
 	'(ac-completion-face ((t (:underline t :foreground "#525252"))))
 	'(change-log-acknowledgement ((t (:foreground "#616161"))))
 	'(diff-context ((t (:foreground "#525252"))))
-	'(slime-repl-inputed-output-face ((t (:foreground "#727170")))))
+	'(slime-repl-inputed-output-face ((t (:foreground "#232323")))))
 
 
 ;;;###autoload
