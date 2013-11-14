@@ -90,7 +90,7 @@
 	'(gnus-header-to ((t (:foreground "#708090"))))
 	'(gnus-header-content ((t (:foreground "#708090"))))
 	'(gnus-server-agent-face ((t (:foreground "#626160"))))
-	'(magit-item-highlight ((t (:background "#d3d2d1"))))
+	'(magit-item-highlight ((t (:background "#f5e98f"))))
 	'(ac-completion-face ((t (:underline t :foreground "#525252"))))
 	'(change-log-acknowledgement ((t (:foreground "#616161"))))
 	'(diff-context ((t (:foreground "#525252"))))
