@@ -2,7 +2,7 @@
 
 ;; Author: Martin Haesler
 ;; URL: http://github.com/mswift42/sunny-day-theme
-;; Version: 0.1
+;; Version: 0.2
 
 ;; Emacs24 theme with a light-yellow background.
 ;; Copyright (C) 2013 , Martin Haesler
@@ -94,6 +94,9 @@
 	'(ac-completion-face ((t (:underline t :foreground "#525252"))))
 	'(change-log-acknowledgement ((t (:foreground "#616161"))))
 	'(diff-context ((t (:foreground "#525252"))))
+	'(js2-external-variable ((t (:foreground "#f03f3f"))))
+	'(js2-private-member ((t (:foreground "#708090"))))
+	'(js2-jsdoc-value    ((t (:foreground "#808080"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#232323")))))
 
 
