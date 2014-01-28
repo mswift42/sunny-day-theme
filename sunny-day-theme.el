@@ -27,7 +27,7 @@
 (custom-theme-set-faces
   'sunny-day 
         '(default ((t (:background "#f2f1c0" :foreground "#000000"))))
-        '(font-lock-builtin-face ((t (:foreground "#9e0045"))))
+        '(font-lock-builtin-face ((t (:foreground "#9e0045" :bold t))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
         '(highlight ((t (:background "#f5e98f"))))
 	'(hl-line ((t (:background "#f5e98f"))))
@@ -44,7 +44,7 @@
 	'(font-lock-comment-face ((t (:foreground "#808080"))))
 	'(font-lock-negation-char-face ((t (:foreground "#f03f3f"))))
 	'(font-lock-reference-face ((t (:foreground "#1d4200"))))
-	'(font-lock-constant-face ((t (:foreground "#f03f3f"))))
+	'(font-lock-constant-face ((t (:foreground "#5c0002"))))
         '(font-lock-doc-face ((t (:foreground "#304050"))))
         '(font-lock-function-name-face ((t (:foreground "#014d00" :bold t))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#2e0a00"))))
