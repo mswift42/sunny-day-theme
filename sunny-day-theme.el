@@ -97,6 +97,7 @@
 	'(js2-external-variable ((t (:foreground "#f03f3f"))))
 	'(js2-private-member ((t (:foreground "#708090"))))
 	'(js2-jsdoc-value    ((t (:foreground "#808080"))))
+        '(trailing-whitespace ((t (:foreground nil :background "#f2d8c0" ))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#232323")))))
 
 
